@@ -1,0 +1,21 @@
+{
+  "name": "u.ant.design",
+  "description": "URL shortener.",
+  "scripts": {
+    "generate": "node ./scripts/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ant-design/u.ant.design.git"
+  },
+  "keywords": [
+    "URL",
+    "shortener"
+  ],
+  "author": "Benjy Cui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ant-design/u.ant.design/issues"
+  },
+  "homepage": "https://github.com/ant-design/u.ant.design#readme"
+}
