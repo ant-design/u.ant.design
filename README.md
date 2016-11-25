@@ -7,7 +7,7 @@ To generate short URL which is to use in warnings and so on.
 Git clone this repo to your local, and run following command:
 
 ```bash
-npm run generate https://www.alipay.com
+➜  u.ant.design git:(gh-pages) npm run generate https://www.alipay.com
 
 https://www.alipay.com ==shorten=> http://u.ant.design/987c5dc
 
