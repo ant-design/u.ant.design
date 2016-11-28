@@ -6,5 +6,7 @@
   "/TqQBDmm": "https://ant.design/components/breadcrumb/#API",
   "/Z4DAgKB": "https://ant.design/components/menu/#components-menu-demo-sider-current",
   "/sPWcgxe": "https://ant.design/components/table/#components-table-demo-fixed-columns",
-  "/aAIpclA": "https://ant.design/components/date-picker/#components-date-picker-demo-start-end"
+  "/aAIpclA": "https://ant.design/components/date-picker/#components-date-picker-demo-start-end",
+  "/5vY3AdU": "https://ant.design/components/popover/#components-popover-demo-basic",
+  "/1kKtZY/": "https://ant.design/components/form/#components-form-demo-horizontal-login"
 };
