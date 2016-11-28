@@ -1,12 +1,12 @@
 (typeof window !== 'undefined' ? window : global).URLMap = {
   "/": "https://ant.design/",
-  "/SQEdMma": "https://ant.design/components/date-picker/#components-date-picker-demo-format",
-  "/12iVT/s": "https://ant.design/components/time-picker/#components-time-picker-demo-size",
-  "/jI6pSlR": "https://ant.design/components/calendar/#components-calendar-demo-custom-render",
-  "/TqQBDmm": "https://ant.design/components/breadcrumb/#API",
-  "/Z4DAgKB": "https://ant.design/components/menu/#components-menu-demo-sider-current",
-  "/sPWcgxe": "https://ant.design/components/table/#components-table-demo-fixed-columns",
-  "/aAIpclA": "https://ant.design/components/date-picker/#components-date-picker-demo-start-end",
-  "/5vY3AdU": "https://ant.design/components/popover/#components-popover-demo-basic",
-  "/1kKtZY/": "https://ant.design/components/form/#components-form-demo-horizontal-login"
+  "/date-picker-value": "https://ant.design/components/date-picker/#components-date-picker-demo-format",
+  "/time-picker-value": "https://ant.design/components/time-picker/#components-time-picker-demo-size",
+  "/calendar-value": "https://ant.design/components/calendar/#components-calendar-demo-custom-render",
+  "/item-render": "https://ant.design/components/breadcrumb/#API",
+  "/menu-on-open-change": "https://ant.design/components/menu/#components-menu-demo-sider-current",
+  "/fixed-columns": "https://ant.design/components/table/#components-table-demo-fixed-columns",
+  "/date-picker-on-open-change": "https://ant.design/components/date-picker/#components-date-picker-demo-start-end",
+  "/popover-content": "https://ant.design/components/popover/#components-popover-demo-basic",
+  "/get-field-decorator": "https://ant.design/components/form/#components-form-demo-horizontal-login"
 };
