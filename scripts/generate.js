@@ -9,7 +9,7 @@ const currentURLMap = Object.assign({}, global.URLMap);
 
 const URLs = process.argv.slice(2);
 URLs.forEach(url => {
-  const md5 = crypto.createHash('md5').update(url).digest('hex');
+  const md5 = crypto.createHash('sha256').update(url).digest('base64');
   const shortenedURL = `/${md5.slice(0, 7)}`;
   currentURLMap[shortenedURL] = url;
   console.log(`${url} ==shorten=> http://u.ant.design${shortenedURL}`);
