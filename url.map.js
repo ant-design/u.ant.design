@@ -8,5 +8,6 @@
   "/fixed-columns": "https://ant.design/components/table/#components-table-demo-fixed-columns",
   "/date-picker-on-open-change": "https://ant.design/components/date-picker/#components-date-picker-demo-start-end",
   "/popover-content": "https://ant.design/components/popover/#components-popover-demo-basic",
-  "/get-field-decorator": "https://ant.design/components/form/#components-form-demo-horizontal-login"
+  "/get-field-decorator": "https://ant.design/components/form/#components-form-demo-horizontal-login",
+  "/gg2moment": "https://github.com/ant-design/ant-design/commit/4026221d451b246956983bb42140142d4a48b7d7",
 };
