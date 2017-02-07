@@ -6,6 +6,7 @@
   "/item-render": "https://ant.design/components/breadcrumb/#API",
   "/menu-on-open-change": "https://ant.design/components/menu/#components-menu-demo-sider-current",
   "/fixed-columns": "https://ant.design/components/table/#components-table-demo-fixed-columns",
+  "/table-row-key": "https://ant.design/components/table/#Note",
   "/date-picker-on-open-change": "https://ant.design/components/date-picker/#components-date-picker-demo-start-end",
   "/popover-content": "https://ant.design/components/popover/#components-popover-demo-basic",
   "/get-field-decorator": "https://ant.design/components/form/#components-form-demo-horizontal-login",
