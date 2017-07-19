@@ -1,4 +1,5 @@
 (typeof window !== 'undefined' ? window : global).URLMap = {
+  "/undefined": "https://ant.design/",
   "/": "https://ant.design/",
   "/date-picker-value": "https://ant.design/components/date-picker/#components-date-picker-demo-format",
   "/time-picker-value": "https://ant.design/components/time-picker/#components-time-picker-demo-size",
