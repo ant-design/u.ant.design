@@ -12,4 +12,5 @@
   "/popover-content": "https://ant.design/components/popover/#components-popover-demo-basic",
   "/get-field-decorator": "https://ant.design/components/form/#components-form-demo-horizontal-login",
   "/gg2moment": "https://github.com/ant-design/ant-design/commit/4026221d451b246956983bb42140142d4a48b7d7",
+  "/codesandbox-repro": "https://codesandbox.io/api/v1/sandboxes/define?parameters=N4IgZglgNgpgziAXKADgQwMYGs0HMYB0AVnAPYB2SoGFALjObVSACYwoNvkYTzMBOMTE0QgoaenCYAaEIOEBaFqQC2SMRPgyQaRi3XjJ2laoYiQAJhABfW7Ijk2AD2IJkIGozPqIKlKX5aAAIAJSEMYLB-VSCAcnkI2IBuAB1yX39A0PDaABEAeQBZIKiY-JylVWS0jIDgkxUzEuiVOIazavS_OqDgINzNAAUIbBh-aSCANzG4CAog62ay3VoWTtqs2JWWAHoWCCkd7YIMODhOtLDhAsKCQUcxgAo0oKCAHn3JoKkAT1gAXmAfXQLH25FwiCCFgADAtrAA-F6vd4oIIYcRnAByaEa_xSIGm_FmFHx8O2Uxmc3IkOAhOJ5Gsbx2KER5GR7wG9GGo34QTYYDQAFcoLQAGpoKCCmCA9qMR4ASkWO3hyKRTM-8OkSOUGEFjUYBHwtAAorB9bQAEI_ACSLEe8VIpFosXlaXlSRs9geLgAFrQVFBmJ56Ix1B8IF8ICw8XJHbRSeqI_CbLYgA",
 };
