@@ -14,4 +14,5 @@
   "/gg2moment": "https://github.com/ant-design/ant-design/commit/4026221d451b246956983bb42140142d4a48b7d7",
   "/codesandbox-repro": "https://codesandbox.io/s/wk04r016q8",
   "/codesandbox": "https://codesandbox.io/s/wk04r016q8",
+  "/pro-v2-default-settings": "https://github.com/ant-design/ant-design-pro/tree/master/src/defaultSettings.js",
 };
