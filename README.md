@@ -1,5 +1,7 @@
 # URL shortener
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ant-design/u.ant.design.svg)](https://greenkeeper.io/)
+
 To generate short URL which is to use in warnings and so on.
 
 ## Usage
