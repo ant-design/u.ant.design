@@ -16,4 +16,5 @@
   "/codesandbox": "https://codesandbox.io/s/wk04r016q8",
   "/pro-v2-default-settings": "https://github.com/ant-design/ant-design-pro/tree/master/src/defaultSettings.js",
   "/faq": "https://github.com/ant-design/ant-design/issues?q=is%3Aissue+label%3A%E2%9D%93FAQ+is%3Aclosed",
+  "/locale": "http://ant.design/components/config-provider-cn/#components-config-provider-demo-locale"
 };
