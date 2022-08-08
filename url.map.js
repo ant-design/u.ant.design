@@ -12,8 +12,8 @@
   "/popover-content": "https://ant.design/components/popover/#components-popover-demo-basic",
   "/get-field-decorator": "https://ant.design/components/form/#components-form-demo-horizontal-login",
   "/gg2moment": "https://github.com/ant-design/ant-design/commit/4026221d451b246956983bb42140142d4a48b7d7",
-  "/codesandbox-repro": "https://codesandbox.io/s/antd-reproduction-template-6e93z",
-  "/codesandbox": "https://codesandbox.io/s/antd-reproduction-template-6e93z",
+  "/codesandbox-repro": "https://codesandbox.io/s/antd-reproduction-template-y9vgcf",
+  "/codesandbox": "https://codesandbox.io/s/antd-reproduction-template-y9vgcf",
   "/pro-v2-default-settings": "https://github.com/ant-design/ant-design-pro/tree/master/src/defaultSettings.js",
   "/faq": "https://github.com/ant-design/ant-design/issues?q=is%3Aissue+label%3A%E2%9D%93FAQ+is%3Aclosed",
   "/locale": "http://ant.design/components/config-provider-cn/#components-config-provider-demo-locale"
