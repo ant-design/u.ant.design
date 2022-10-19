@@ -7,13 +7,29 @@ const crypto = require('crypto');
 require('../url.map.js');
 const currentURLMap = Object.assign({}, global.URLMap);
 
+function generateUrl(target) {
+  const md5 = crypto.createHash('sha256').update(target).digest('base64');
+  return md5.slice(0, 7);
+}
+
+function slugify(shortName) {
+  return shortName.replace(/[^A-Za-z-]/g,'-');
+}
+
+function addUrl(target, shortName) {
+  if(!shortName) {
+    shortName = generateUrl(target);
+  }
+  currentURLMap[`/${shortName}`] = target;
+  console.log(`${target} ==shorten=> http://u.ant.design/${shortName}`);
+}
+
 const URLs = process.argv.slice(2);
-URLs.forEach(url => {
-  const md5 = crypto.createHash('sha256').update(url).digest('base64');
-  const shortenedURL = `/${md5.slice(0, 7)}`;
-  currentURLMap[shortenedURL] = url;
-  console.log(`${url} ==shorten=> http://u.ant.design${shortenedURL}`);
-});
+if(URLs.length === 2 && !URLs[1].startsWith('http')) {
+  addUrl(URLs[0], slugify(URLs[1]));
+} else {
+  URLs.forEach(url => addUrl(url));
+}
 
 fs.writeFileSync(
   path.join(process.cwd(), './url.map.js'),
