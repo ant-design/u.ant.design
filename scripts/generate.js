@@ -13,7 +13,7 @@ function generateUrl(target) {
 }
 
 function slugify(shortName) {
-  return shortName.replace(/[^A-Za-z-]/g,'-');
+  return shortName.replace(/[^A-Za-z-]/g,'-').toLowerCase();
 }
 
 function addUrl(target, shortName) {
