@@ -14,7 +14,7 @@ https://www.alipay.com ==shorten=> http://u.ant.design/987c5dc
 URLs had been shortened, please commit and push it to GitHub!
 ```
 
-To generate a link with a specific name, specify the name as a second parameter:
+To generate a link with a specific name, specify the name after the link:
 ```bash
 > npm run generate https://www.example.com Example Name
 
