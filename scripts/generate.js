@@ -25,7 +25,7 @@ function addUrl(target, shortName) {
 }
 
 const URLs = process.argv.slice(2);
-if(!URLs[1].startsWith('http')) {
+if(URLs.length > 1 && !URLs[1].startsWith('http')) {
   addUrl(URLs[0], slugify(URLs.slice(1).join(' ')));
 } else {
   URLs.forEach(url => addUrl(url));
