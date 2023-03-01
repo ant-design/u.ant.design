@@ -14,6 +14,7 @@
   "/locale": "https://ant.design/components/config-provider-cn/#components-config-provider-demo-locale",
   "/complex-form-item": "https://ant.design/components/form/#components-form-demo-complex-form-control",
   "/form-deps": "https://ant.design/components/form/#dependencies/",
+  "/form-item-usestatus": "https://ant.design/components/form-cn#formitemusestatus",
   "/gg2moment": "https://github.com/ant-design/ant-design/commit/4026221d451b246956983bb42140142d4a48b7d7",
   "/codesandbox": "https://codesandbox.io/s/antd-reproduction-template-forked-jyh2k9",
   "/codesandbox-repro": "https://codesandbox.io/s/antd-reproduction-template-forked-jyh2k9",
