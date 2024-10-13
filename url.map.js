@@ -22,6 +22,7 @@
   "/codesandbox-repro-4x": "https://codesandbox.io/s/antd-reproduction-template-y9vgcf",
   "/pro-v2-default-settings": "https://github.com/ant-design/ant-design-pro/tree/master/src/defaultSettings.js",
   "/faq": "https://github.com/ant-design/ant-design/issues?q=is%3Aissue+label%3A%E2%9D%93FAQ+is%3Aclosed",
-  "/reproduce": "https://stackblitz.com/edit/antd-reproduce-5x",
-  "/repro": "https://stackblitz.com/edit/antd-reproduce-5x"
+  "/stackblitz": "https://stackblitz.com/edit/antd-reproduce-5x",
+  "/reproduce": "https://codesandbox.io/s/antd-reproduction-template-forked-jyh2k9",
+  "/repro": "https://codesandbox.io/s/antd-reproduction-template-forked-jyh2k9"
 };
