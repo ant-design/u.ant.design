@@ -24,5 +24,6 @@
   "/faq": "https://github.com/ant-design/ant-design/issues?q=is%3Aissue+label%3A%E2%9D%93FAQ+is%3Aclosed",
   "/stackblitz": "https://stackblitz.com/edit/antd-reproduce-5x",
   "/reproduce": "https://codesandbox.io/s/antd-reproduction-template-forked-jyh2k9",
-  "/repro": "https://codesandbox.io/s/antd-reproduction-template-forked-jyh2k9"
+  "/repro": "https://codesandbox.io/s/antd-reproduction-template-forked-jyh2k9",
+  "/v5-for-19": "https://ant.design/docs/react/v5-for-19"
 };
