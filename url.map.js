@@ -26,5 +26,5 @@
   "/reproduce": "https://codesandbox.io/s/antd-reproduction-template-forked-jyh2k9",
   "/repro": "https://codesandbox.io/s/antd-reproduction-template-forked-jyh2k9",
   "/v5-for-19": "https://ant.design/docs/react/v5-for-19",
-  "/setup": "https://ant.design/docs/react/use-with-vite",
+  "/guide": "https://ant.design/docs/react/use-with-vite",
 };
